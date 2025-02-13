@@ -9,11 +9,11 @@
 - 🔭 I’m currently working on NEXT JS and Sanity.io
 - ❤️️   Always Believe in Love
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **Golang and DevOps Essentials.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 📫 How to reach me **sangramrengoku619@gmail.com**
+- 📫 How to reach me **sangramsubudhi19@gmail.com**
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
